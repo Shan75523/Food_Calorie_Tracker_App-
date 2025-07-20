@@ -1,1 +1,1 @@
-# Food_Calorie_Tracker_App-
+Calorie Tracker Web App A sleek and responsive web application that allows users to upload a food image, analyzes the contents using AI-powered APIs, and returns nutritional information like calories, protein, carbohydrates, and fats.
